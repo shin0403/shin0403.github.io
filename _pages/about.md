@@ -20,41 +20,41 @@ Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea,
 Email: shin0403@yonsei.ac.kr
 
 ## Education
-* [Yonsei University](http://yonsei.ac.kr)
-* Integrated M.S./Ph.D. Student
-* Advisor: Prof. Hanjun Kim
-* Specialization: Compiler, Graph processing, GPU
-* March 2019 to Present
+#### [Yonsei University](http://yonsei.ac.kr)
+Integrated M.S./Ph.D. Student
+Advisor: Prof. Hanjun Kim
+Specialization: Compiler, Graph processing, GPU
+March 2019 to Present
 
-* [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr)
-* Bachelor of Science(B.S.) in Creative IT Engineering
-* March 2015 to February 2019
+#### [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr)
+Bachelor of Science(B.S.) in Creative IT Engineering
+March 2015 to February 2019
 
 ## Work experience
-* Research Assistant, March 2019 to Present
-* Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea
-* Advisor: Prof. Hanjun Kim
+#### Research Assistant, March 2019 to Present
+Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea
+Advisor: Prof. Hanjun Kim
 
-* Visiting Scholar, March 2023 to Feb 2024
-* High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA
-* Advisor: Prof. Hyesoon Kim
+#### Visiting Scholar, March 2023 to Feb 2024
+High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA
+Advisor: Prof. Hyesoon Kim
 
-* Undergraduate Research Assistant, December 2017 to June 2018
-* Compiler Research Laboratory (Corelab), POSTECH, Pohang, Republic of Korea
+#### Undergraduate Research Assistant, December 2017 to June 2018
+Compiler Research Laboratory (Corelab), POSTECH, Pohang, Republic of Korea
 
-* Undergraduate Research Assistant, June to August 2016, January to February 2017
-* POSTECH Database and Data Mining Lab (Big data lab), POSTECH, Pohang, Republic of Korea
+#### Undergraduate Research Assistant, June to August 2016, January to February 2017
+POSTECH Database and Data Mining Lab (Big data lab), POSTECH, Pohang, Republic of Korea
 
-* Undergraduate Student Intern, September to December 2016
-* Excem, Pohang, Republic of Korea
+#### Undergraduate Student Intern, September to December 2016
+Excem, Pohang, Republic of Korea
 
-* Exchange Student, September to December 2015
-* University of California, Berkeley, United States of America
+#### Exchange Student, September to December 2015
+University of California, Berkeley, United States of America
 
 ## Skills
-* Compiler
-* GPU
-* Computer Architecture
-* Graph processing compiler/runtime on GPU
-* Deep Learning Compiler
+Compiler
+GPU
+Computer Architecture
+Graph processing compiler/runtime on GPU
+Deep Learning Compiler
 
