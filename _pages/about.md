@@ -16,7 +16,7 @@ My research interests focus on GPU compilers, schedulers, and architecture, with
 You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnung_cv.pdf). 
 
 ## Contact Information
-Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722<br\>
+Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722 <br\>
 Email: shin0403@yonsei.ac.kr
 
 ## Education
