@@ -15,24 +15,21 @@ My research interests focus on GPU compilers, schedulers, and architecture, with
 
 You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnung_cv.pdf). 
 
-======
 ## Contact Information
 Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722
 Email: shin0403@yonsei.ac.kr
 
-======
 ## Education
 * [Yonsei University](http://yonsei.ac.kr)
 * Integrated M.S./Ph.D. Student
 * Advisor: Prof. Hanjun Kim
-* Specialization : Compiler, Graph processing, GPU
+* Specialization: Compiler, Graph processing, GPU
 * March 2019 to Present
 
 * [Pohang University of Science and Technology (POSTECH)](http://postech.ac.kr)
 * Bachelor of Science(B.S.) in Creative IT Engineering
 * March 2015 to February 2019
 
-======
 ## Work experience
 * Research Assistant, March 2019 to Present
 * Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea
@@ -54,11 +51,10 @@ Email: shin0403@yonsei.ac.kr
 * Exchange Student, September to December 2015
 * University of California, Berkeley, United States of America
 
-======
 ## Skills
 * Compiler
 * GPU
 * Computer Architecture
 * Graph processing compiler/runtime on GPU
-* Deep Leraning Compiler
+* Deep Learning Compiler
 
