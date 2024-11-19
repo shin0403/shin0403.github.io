@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: url('files/bg-banner.jpg') no-repeat fixed;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
