@@ -21,7 +21,7 @@ repository               : "shin0403/shin0403.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shinnung.jpg"
+  avatar           : "files/shinnung.jpg"
   name             : "Shinnung Jeong"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
