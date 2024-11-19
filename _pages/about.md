@@ -59,6 +59,6 @@ Graph processing compiler/runtime on GPU
 Deep Learning Compiler
 
 ## Publication 
-[Publication List](https://shin0403.github.io/publications/)
+[Publication List](https://shin0403.github.io/publications/)   
 [Google Scholar](https://scholar.google.com/citations?user=P-3_m5kAAAAJ)
 
