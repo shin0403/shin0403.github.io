@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-## Profile
-======
+## Biography
 I am a graduate student in the School of Electrical and Electronic Engineering at [Yonsei University](http://yonsei.ac.kr). I work in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). In addition, I worked as a visiting scholar in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/).
 I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).
 
 My research interests focus on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, and Homomorphic Encryption.
 
-You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnung_cv.pdf). If you're interested in my research or have any questions, feel free to reach out via email at [shin0403@yonsei.ac.kr](mailto:shin0403@yonsei.ac.kr).
+You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnung_cv.pdf). 
 
-## Education
 ======
+## Contact Information
+Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722
+Email: shin0403@yonsei.ac.kr
+
+======
+## Education
 * [Yonsei University](http://yonsei.ac.kr)
 * Integrated M.S./Ph.D. Student
 * Advisor: Prof. Hanjun Kim
@@ -28,9 +32,8 @@ You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnu
 * Bachelor of Science(B.S.) in Creative IT Engineering
 * March 2015 to February 2019
 
-
-## Work experience
 ======
+## Work experience
 * Research Assistant, March 2019 to Present
 * Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea
 * Advisor: Prof. Hanjun Kim
@@ -51,9 +54,8 @@ You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnu
 * Exchange Student, September to December 2015
 * University of California, Berkeley, United States of America
 
-
-## Skills
 ======
+## Skills
 * Compiler
 * GPU
 * Computer Architecture
