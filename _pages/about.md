@@ -13,7 +13,7 @@ I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://pos
 
 My research interests focus on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, and Homomorphic Encryption.
 
-You can view my [Curriculum Vitae (PDF)](https://shin0403.github.io/files/shinnung_cv.pdf). 
+The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung_cv.pdf). 
 
 ## Contact Information
 Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722 <br/>
