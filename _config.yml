@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shinnung Jeong"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shinnung Jeong"
 description              : &description "Ph.D. Student"
@@ -21,7 +21,7 @@ repository               : "shin0403/shin0403.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shinnung.jpg"
+  avatar           : "shinnung.jpg"
   name             : "Shinnung Jeong"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
