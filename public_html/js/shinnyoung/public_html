@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Medilab Free Bootstrap HTML5 Template</title>
+  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Candal">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- =======================================================
+    Theme Name: Shinnung Jeong
+    Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+  <!--banner-->
+  <section id="banner" class="banner">
+    <div class="bg-color">
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="col-md-12">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				      </button>
+              <a class="navbar-brand" href="#"><img src="img/logo.png" class="img-responsive" style="width: 140px; margin-top: -16px;"></a>
+            </div>
+            <div class="collapse navbar-collapse navbar-right" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#banner">Home</a></li>
+                <li class=""><a href="#service">Education</a></li>
+                <li class=""><a href="#about">EXPERIENCE</a></li>
+                <li class=""><a href="#reco">RECOGNITION</a></li>
+                <li class=""><a href="#testimonial">PUBLICATIONS</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="container">
+        <div class="row">
+          <div class="banner-info">
+            <div class="banner-logo text-center">
+              <img src="img/logo.png" class="img-responsive">
+            </div>
+            <div class="banner-text text-center">
+              <h1 class="white">Shinnung Jeong</h1>
+              <p>M.S./Ph.D. Student, March 2019 to Present</p>
+            </div>
+            <div class="overlay-detail text-center">
+              <a href="#service"><i class="fa fa-angle-down"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ banner-->
+  <!--service-->
+  <section id="service" class="section-padding">
+    <div class="container">
+          <h2 class="ser-title">Education</h2>
+          <hr class="botm-line">
+          <p>Yonsei University, Seoul, Republic of Korea M.S./Ph.D. Student, March 2019 to Present, Advisor: Prof. Hanjun Kim</p>
+          <p>Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea Bachelor of Science in Creative IT Engineering, March 2015 to February 2019</p>
+          <p>Gwangju Science Academy for the Gifted, Gwangju, Republic of Korea High school, March 2012 to February 2015</p>
+        </div>
+    </div>
+  </section>
+  <!--/ service-->
+
+<!--about-->
+<section id="about" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-4 col-xs-12">
+        <div class="section-title">
+          <h2 class="head-title lg-line">Experience</h2>
+          <hr class="botm-line">
+          <a href="" style="color: #0cb8b6; padding-top:10px;">about Computer Science</a>
+        </div>
+      </div>
+      <div class="col-md-9 col-sm-8 col-xs-12">
+        <div style="visibility: visible;" class="col-sm-9 more-features-box">
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Research Assistant, March 2019 to Present</h3>
+              <p>Compiler Research Laboratory (Corelab), Younsei University, Seoul, Republic of Korea</p>
+              <p>Modeling and Benchmarking the performance of commercial IoT platforms (Preparing for IoT-J sub- mission)</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Undergraduate Research Assistant, December 2017 to June 2018</h3>
+              <p>Compiler Research Laboratory (Corelab), POSTECH, Pohang, Republic of Korea</p>
+              <p>Developing interactive outdoor advertisement system that recommends advertisements based on eyes pose, facial expression, age, and gender data</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Programmer, February 2018</h3>
+              <p>Living Lab Game Jam 2018, Netherlands</p>
+              <p>Developing educational game about energy saving with HKU students</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Undergraduate Research Assistant, June to August 2016, January to February 2017</h3>
+              <p>POSTECH Database and Data Mining Lab (Big data lab), POSTECH, Pohang, Republic of Korea</p>
+              <p>Design Natural Language processing system for Korean</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Programmer, September 2015 to December 2016</h3>
+              <p>Nano Studio, Pohang, Republic of Korea</p>
+              <p>Developing game system and basic design concept</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Undergraduate Student Intern, September to December 2016</h3>
+              <p>Excem, Pohang, Republic of Korea</p>
+              <p>Developing alarm system and web UI for cloud server</p>
+            </div>
+          </div>
+          <div class="more-features-box-text">
+            <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
+            <div class="more-features-box-text-description">
+              <h3>Exchange Student, September to December 2015</h3>
+              <p>University of California, Berkeley, United States of America</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/ about-->
+<!--reco-->
+<section id="reco" class="section-padding">
+  <div class="container">
+        <h2 class="ser-title">Recognition</h2>
+        <hr class="botm-line">
+        <p>Magna Cum Laude from POSTECH, February 2019</p>
+        <p>Excellence Award, Creative IT Design Competition, Department of Creative IT Engineering, POSTECH,
+          June 2018</p>
+        <p>Vadas Award, Create IT Design Competition, Department of Creative IT Engineering, POSTECH,
+          December 2016</p>
+        <p>Vadas Award, Create IT Design Competition, Department of Creative IT Engineering, POSTECH, June
+          2016</p>
+        <p>The Grand Prize, Create IT Design Competition, Department of Creative IT Engineering, POSTECH,
+          June 2016</p>
+        <p>PJ Metal Best Papers, Department of Humanities and social sciences, POSTECH, December 2018</p>
+        <p>Excellence Award, 2018 POSTECH Hackathon Catch, PoApper, November 2018</p>
+        <p>Excellence Award, Arthackathon : Next-generation culture and arts education with 4th Industrial Rev-
+          olution Technology, Jun 2018</p>
+      </div>
+  </div>
+</section>
+<!--/ reco-->
+
+  <!--cta-->
+  <section id="cta-1" class="section-padding">
+    <div class="container">
+      <div class="row">
+        <div class="schedule-tab">
+          <div class="col-md-4 col-sm-4 bor-left">
+            <div class="mt-boxy-color"></div>
+            <div class="medi-info">
+              <h3>Conference Participation</h3>
+              <p>KIISE Computer System Society Winter Workshop, January 2019</p>
+              <p>KIISE Computer System Society Winter Workshop, January 2018</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4">
+            <div class="medi-info">
+              <h3>International Conference Sub-reviewer</h3>
+              <p>Sub-reviewer, 2019 IEEE Micro</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 mt-boxy-3">
+            <div class="mt-boxy-color"></div>
+            <div class="time-info">
+              <h3>Teaching</h3>
+              <p>EEE3313-01: Basic Digital Experiments, Yonsei University</p>
+              <p>Teaching Assistant, Yonsei University, Spring 2019</p>
+              <p>(Teaching weekly lab classes about how to writing RTL Verilog code and designing hardware acceleration(FPGA- ARM))</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--cta-->
+ <!--/ testimonial-->
+  <section id="service" class="section-padding">
+    <div class="container">
+          <h2 class="ser-title">Undergraduate Experience in Extracurricular Activities</h2>
+          <hr class="botm-line">
+          <p>Leader of the Design Team, POSTECH-KAIST Science War Arrangement Committee, June to Septem- ber 2018</p>
+          <p>Member of the Design Team, POSTECH-KAIST Science War Arrangement Committee, June to Septem- ber 2017</p>
+          <p>Member of the Design Team, POSTECH Festival Arrangement Committee, April to May 2015</p>
+          <p>leading actress, Original POSTECH Cast, Winter 2016 and Spring 2017</p>
+          <p>Member of Reader’s Club, POSTECH, Fall 2017</p>
+        </div>
+    </div>
+  </section>
+  <section id="testimonial" class="section-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="ser-title">Publications</h2>
+          <hr class="botm-line">
+          <p>Shinnung Jeong, Yongwoo Lee, Gyeonmin Lee, Changsu Kim, Seonyeong Heo, and Hanjun Kim, “μIoTBench: User-level Response Time Modeling for the IoT,” in Preparation of the IEEE Internet of Things Journal (IOT-J), 2019.</p>
+          <p>Changsu Kim, Sungjun Cho, Gyeonmin Lee, Shinnung Jung, William Song, and Hanjun Kim, “High- Level Synthesis Framework for IoT Devices,” in submission MICRO’19.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ testimonial-->
+  <!--cta 2-->
+  <section id="cta-2" class="section-padding">
+    <div class="container">
+      <div class=" row">
+        <div class="col-md-2"></div>
+        <div class="text-right-md col-md-4 col-sm-4">
+          <h2 class="section-title white lg-line">Contact </br>Information</h2>
+        </div>
+        <div class="col-md-4 col-sm-5">
+          School of Electrical and Electronic Engineering Yonsei University</br>
+          Engineering Hall #3 C407</br>
+          50 Yonsei-Ro Seodaemun-gu</br>
+          Seoul, South Korea, 03722</br>
+        </div>
+        <div class="col-md-2"></div>
+      </div>
+    </div>
+  </section>
+  <!--cta-->
+  <!--footer-->
+  <footer id="footer">
+    <div class="top-footer">
+      <div class="container">
+        <div class="row">
+          <p class="text-right text-primary"><i>Shinnung Jeong Copyright 2019 - All Rights Reserved</i></p>
+        </div>
+      </div>
+    </div>
+  <!--/ footer-->
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/custom.js"></script>
+  <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>
+
