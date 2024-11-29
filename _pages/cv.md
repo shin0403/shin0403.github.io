@@ -6,6 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-```{r redirect}
-    singleton(tags$head(tags$script('window.location.replace("https://shin0403.github.io/files/shinnung_cv.pdf");')))
-```
+
+The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung_cv.pdf).
