@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 ## Biography
-I am a graduate student in the School of Electrical and Electronic Engineering at [Yonsei University](http://yonsei.ac.kr). I work in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). In addition, I worked as a visiting scholar in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/).
-I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).
+I am a Postdoctoral Fellow in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
 
-My research interests focus on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, and Homomorphic Encryption.
+My research focuses on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, as well as Homomorphic Encryption.
 
 The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung_cv.pdf). 
 
@@ -31,7 +30,11 @@ Bachelor of Science(B.S.) in Creative IT Engineering<br/>
 March 2015 to February 2019
 
 ## Work experience
-### Research Assistant, March 2019 to Present
+### Postdoctoral Fellow, March 2025 to Present
+High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA<br/>
+Advisor: Prof. Hyesoon Kim
+
+### Research Assistant, March 2019 to February 2025 
 Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea<br/>
 Advisor: Prof. Hanjun Kim
 
