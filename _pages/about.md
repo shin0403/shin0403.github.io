@@ -29,7 +29,7 @@ March 2019 to Present
 Bachelor of Science(B.S.) in Creative IT Engineering<br/>
 March 2015 to February 2019
 
-### University of California, Berkeley
+### [University of California, Berkeley](https://www.berkeley.edu/)
 Exchange Student<br/>
 September to December 2015
 
@@ -48,9 +48,11 @@ Advisor: Prof. Hyesoon Kim
 
 ### Undergraduate Research Assistant, December 2017 to June 2018
 Compiler Research Laboratory (Corelab), POSTECH, Pohang, Republic of Korea<br/>
+Advisor: Prof. Hanjun Kim
 
 ### Undergraduate Research Assistant, June to August 2016, January to February 2017
 POSTECH Database and Data Mining Lab (Big data lab), POSTECH, Pohang, Republic of Korea<br/>
+Advisor: Prof. Wook-Shin Han
 
 ### Undergraduate Student Intern, September to December 2016
 Excem, Pohang, Republic of Korea
