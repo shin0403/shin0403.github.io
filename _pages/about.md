@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Biography
-I am a Postdoctoral Fellow in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
+I am a Postdoctoral Researcher in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
 
 My research focuses on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, as well as Homomorphic Encryption.
 
@@ -29,7 +29,11 @@ March 2019 to Present
 Bachelor of Science(B.S.) in Creative IT Engineering<br/>
 March 2015 to February 2019
 
-## Work experience
+### University of California, Berkeley
+Exchange Student<br/>
+September to December 2015
+
+## Work Experience
 ### Postdoctoral Fellow, March 2025 to Present
 High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA<br/>
 Advisor: Prof. Hyesoon Kim
@@ -50,9 +54,6 @@ POSTECH Database and Data Mining Lab (Big data lab), POSTECH, Pohang, Republic o
 
 ### Undergraduate Student Intern, September to December 2016
 Excem, Pohang, Republic of Korea
-
-### Exchange Student, September to December 2015
-University of California, Berkeley, United States of America
 
 ## Skills
 - Compiler
