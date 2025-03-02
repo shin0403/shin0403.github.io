@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Biography
-I am a Postdoctoral Researcher in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
+I am a Postdoctoral Researcher in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Haesun Park](https://faculty.cc.gatech.edu/~hpark/) and Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
 
 My research focuses on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, as well as Homomorphic Encryption.
 
@@ -36,7 +36,7 @@ September to December 2015
 ## Work Experience
 ### Postdoctoral Fellow, March 2025 to Present
 High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA<br/>
-Advisor: Prof. Hyesoon Kim
+Advisor: Prof. Haesun Park and Prof. Hyesoon Kim
 
 ### Research Assistant, March 2019 to February 2025 
 Compiler Research Laboratory (Corelab), Yonsei University, Seoul, Republic of Korea<br/>
