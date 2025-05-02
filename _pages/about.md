@@ -15,8 +15,8 @@ My research focuses on GPU compilers, schedulers, and architecture, with a parti
 The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung-cv.pdf). 
 
 ## Contact Information
-Office: Engineering Hall #3 C407, 50 Yonsei-Ro Seodaemun-gu, Seoul, South Korea, 03722 <br/>
-Email: shin0403@yonsei.ac.kr
+Office: 266 Ferst Drive, KACB 2206, Atlanta, GA 30332-0765 <br/>
+Email: shinnung@gatech.edu, shin0403@yonsei.ac.kr
 
 ## Education
 ### [Yonsei University](http://yonsei.ac.kr)
