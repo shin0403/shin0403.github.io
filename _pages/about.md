@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher in the [High Performance Architecture Lab](https:
 
 My research focuses on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, as well as Homomorphic Encryption.
 
-The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung-cv.pdf). 
+The PDF version of my Curriculum Vitae(CV) is available at the [link](https://shin0403.github.io/files/shinnung-short.pdf). 
 
 ## Contact Information
 Office: 266 Ferst Drive, KACB 2206, Atlanta, GA 30332-0765 <br/>
