@@ -16,7 +16,7 @@ The PDF version of my Curriculum Vitae(CV) is available at the [link](https://sh
 
 ## Contact Information
 Office: 266 Ferst Drive, KACB 2206, Atlanta, GA 30332-0765 <br/>
-Email: shinnung@gatech.edu, shin0403@yonsei.ac.kr
+Email: sjeong306@gatech.edu, shin0403@yonsei.ac.kr
 
 ## Education
 ### [Yonsei University](http://yonsei.ac.kr)
