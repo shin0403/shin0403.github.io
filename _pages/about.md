@@ -29,10 +29,6 @@ March 2019 to Present
 Bachelor of Science(B.S.) in Creative IT Engineering<br/>
 March 2015 to February 2019
 
-### [University of California, Berkeley](https://www.berkeley.edu/)
-Exchange Student<br/>
-September to December 2015
-
 ## Work Experience
 ### Postdoctoral Fellow, March 2025 to Present
 High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA<br/>
