@@ -30,7 +30,7 @@ Bachelor of Science(B.S.) in Creative IT Engineering<br/>
 March 2015 to February 2019
 
 ## Work Experience
-### Postdoctoral Fellow, March 2025 to Present
+### Postdoctoral Fellow, May 2025 to Present
 High Performance Architecture Lab(HPArch), Georgia Tech, GA, USA<br/>
 Advisor: Prof. Haesun Park and Prof. Hyesoon Kim
 
