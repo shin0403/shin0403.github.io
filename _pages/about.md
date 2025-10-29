@@ -64,3 +64,15 @@ Excem, Pohang, Republic of Korea
 - [Publication List](https://shin0403.github.io/publications/)   
 - [Google Scholar](https://scholar.google.com/citations?user=P-3_m5kAAAAJ)
 
+## Academic Service
+Program Committee
+- IEEE International Symposium on Performance Analysis of Systems and Software: 2026
+External Program Committee
+- The International Symposium on Computer Architecture (ISCA): 2026
+Student Research Competition Committee
+- IEEE/ACM International Symposium on Microarchitecture: 2025
+Workshop/Tutorial Committee
+- Vortex Workshop and Tutorial at MICRO: 2023, 2025
+Journal Reviewer
+- ACM Transactions on Architecture and Code Optimization: 2023, 2025
+- IEEE Micro: 2025
