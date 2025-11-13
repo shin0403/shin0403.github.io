@@ -67,8 +67,6 @@ Excem, Pohang, Republic of Korea
 ## Academic Service
 ### Program Committee
 - IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS): 2026
-
-### External Program Committee
 - The International Symposium on Computer Architecture (ISCA): 2026
 
 ### Student Research Competition Committee
