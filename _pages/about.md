@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Shinnung Jeong"
+excerpt: "Postdoctoral Researcher at Georgia Tech HPArch working on the Vortex open-source GPU and the VOLT compiler for RISC-V GPGPUs. PhD from Yonsei University."
+description: "Postdoctoral Researcher at Georgia Tech HPArch working on the Vortex open-source GPU and the VOLT compiler for RISC-V GPGPUs. PhD from Yonsei University."
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +10,7 @@ redirect_from:
 ---
 
 ## Biography
-I am a Postdoctoral Researcher in the [High Performance Architecture Lab](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Haesun Park](https://faculty.cc.gatech.edu/~hpark/) and Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex OpenSource GPU project](https://vortex.cc.gatech.edu/). I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
+I am a Postdoctoral Researcher in the [High Performance Architecture Lab (HPArch)](https://sites.gatech.edu/hparch/) at the Georgia Institute of Technology, where I am advised by Prof. [Haesun Park](https://faculty.cc.gatech.edu/~hpark/) and Prof. [Hyesoon Kim](https://faculty.cc.gatech.edu/~hyesoon/) and work on the [Vortex open-source GPU project](https://vortex.cc.gatech.edu/), including [VOLT](https://dl.acm.org/doi/10.1145/3771775.3786275), an open-source GPU compiler for RISC-V GPGPUs. I received a Ph.D. from [Yonsei University](http://yonsei.ac.kr). During my Ph.D., I worked in the [Compiler Optimization Research Lab](http://corelab.or.kr), advised by Prof. [Hanjun Kim](http://corelab.or.kr/~hanjun). I previously earned my B.S. in Creative IT Engineering from [POSTECH](http://postech.ac.kr).  
 
 My research focuses on GPU compilers, schedulers, and architecture, with a particular emphasis on graph processing and the ML/AI domain. I also have experience in high-level synthesis, neural networks for real-time systems, privacy-preserving cloud computing frameworks, as well as Homomorphic Encryption.
 
@@ -60,12 +62,18 @@ Excem, Pohang, Republic of Korea
 - Graph processing compiler/runtime on GPU
 - Deep Learning Compiler
 
-## Publication 
-- [Publication List](https://shin0403.github.io/publications/)   
-- [Google Scholar](https://scholar.google.com/citations?user=P-3_m5kAAAAJ)
+## Selected Publications
+For the complete list, see my [Publications](https://shin0403.github.io/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=P-3_m5kAAAAJ).
+
+- **[Inside VOLT: Designing an Open-Source GPU Compiler](https://dl.acm.org/doi/10.1145/3771775.3786275)** — ACM SIGPLAN International Conference on Compiler Construction (CC), 2026.
+- **[SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads](https://ieeexplore.ieee.org/abstract/document/10946718)** — IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025.
+- **[CR2: Community-aware Compressed Regular Representation for Graph Processing on a GPU](http://dl.acm.org/doi/10.1145/3673038.3673056)** — International Conference on Parallel Processing (ICPP), 2024.
+- **[Decoupling Schedule, Topology Layout, and Algorithm to Easily Enlarge the Tuning Space of GPU Graph Processing](http://doi.org/10.1145/3559009.3569686)** — International Conference on Parallel Architectures and Compilation Techniques (PACT), 2022.
 
 ## Academic Service
 ### Program Committee
+- IEEE/ACM International Symposium on Microarchitecture (MICRO): 2026
+- IEEE International Symposium on Workload Characterization (IISWC): 2026
 - IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS): 2026
 - The International Symposium on Computer Architecture (ISCA): 2026
 
@@ -73,7 +81,7 @@ Excem, Pohang, Republic of Korea
 - IEEE/ACM International Symposium on Microarchitecture (MICRO): 2025
   
 ### Workshop/Tutorial Committee
-- Vortex Workshop and Tutorial at MICRO: 2023, 2025
+- Vortex Workshop and Tutorial at MICRO: 2023, 2025, 2026
 
 ### Journal Reviewer
 - ACM Transactions on Architecture and Code Optimization (TACO): 2023, 2025

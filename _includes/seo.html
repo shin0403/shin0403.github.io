@@ -25,6 +25,14 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+{% endif %}
+{% assign seo_keywords = page.keywords | default: site.keywords %}
+{% if seo_keywords %}
+  <meta name="keywords" content="{{ seo_keywords }}">
+{% endif %}
+
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
   {% if seo_author.twitter %}
@@ -48,7 +56,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
@@ -87,6 +95,9 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif site.og_image %}
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+  <meta property="og:image:alt" content="{{ site.name | default: site.title }}">
 {% endif %}
 
 {% if page.date %}
@@ -101,28 +112,39 @@
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
-{% if site.og_image %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.name | jsonify }},
+  "givenName": "Shinnung",
+  "familyName": "Jeong",
+  "url": {{ seo_url | jsonify }},
+  "image": {{ site.author.avatar | prepend: "/images/" | prepend: base_path | jsonify }},
+  "jobTitle": "Postdoctoral Researcher",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Georgia Institute of Technology",
+    "url": "https://www.gatech.edu/",
+    "department": {
       "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+      "name": "High Performance Architecture Lab (HPArch)",
+      "url": "https://sites.gatech.edu/hparch/"
     }
-  </script>
-{% endif %}
-
-{% if site.social %}
-  <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
-    }
-  </script>
-{% endif %}
+  },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Yonsei University", "url": "https://www.yonsei.ac.kr/" },
+    { "@type": "CollegeOrUniversity", "name": "Pohang University of Science and Technology (POSTECH)", "url": "https://www.postech.ac.kr/" }
+  ],
+  "knowsAbout": ["GPU compilers", "RISC-V GPGPU", "Vortex GPU", "VOLT compiler", "Deep learning compilers", "Graph processing", "Computer architecture"],
+  "sameAs": [
+    {{ site.author.googlescholar | jsonify }},
+    {{ site.author.orcid | jsonify }},
+    {{ site.author.github | prepend: "https://github.com/" | jsonify }},
+    {{ site.author.linkedin | prepend: "https://www.linkedin.com/in/" | jsonify }}
+  ]
+}
+</script>
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
