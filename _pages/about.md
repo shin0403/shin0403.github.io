@@ -73,9 +73,10 @@ For the complete list, see my [Publications](https://shin0403.github.io/publicat
 ## Academic Service
 ### Program Committee
 - IEEE/ACM International Symposium on Microarchitecture (MICRO): 2026
+- The International Symposium on Computer Architecture (ISCA): 2026
+- IEEE International Symposium on High-Performance Computer Architecture (HPCA): 2026
 - IEEE International Symposium on Workload Characterization (IISWC): 2026
 - IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS): 2026
-- The International Symposium on Computer Architecture (ISCA): 2026
 
 ### Student Research Competition Committee
 - IEEE/ACM International Symposium on Microarchitecture (MICRO): 2025
